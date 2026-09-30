@@ -53,6 +53,7 @@ GitHub             Project documentation
 
 ## Repository Structure
 
+```text
 sales-data-analysis-python-sql-powerbi/
 ├── README.md
 ├── data/
@@ -66,6 +67,8 @@ sales-data-analysis-python-sql-powerbi/
 │   └── Sales_Dashboard.pbix
 └── screenshots/
     └── sales_dashboard.png
+```
+
 
 ## Key Learning Outcomes
 
@@ -88,4 +91,4 @@ interactive Power BI features to demonstrate an end-to-end data
 analytics process.
 
 ## Dashboard Preview
-![Blinkit_dashboard](https://github.com/anchalpatial899-hash/Blinkit-dashboard/blob/main/blinkit_dashboard.png))
+![Blinkit_dashboard](https://github.com/anchalpatial899-hash/sales-data-analysis-python-sql-powerbi/blob/main/sales_performance_dashboard.pbit))
