@@ -91,4 +91,4 @@ interactive Power BI features to demonstrate an end-to-end data
 analytics process.
 
 ## Dashboard Preview
-![sales_dashboard](https://github.com/anchalpatial899-hash/sales-data-analysis-python-sqlpowerbi/blob/main/sales_performance_dashboard.pbit))
+![sales_dashboard](https://github.com/anchalpatial899-hash/sales-data-analysis-python-sql-powerbi/blob/main/sales_dashboard.png)
