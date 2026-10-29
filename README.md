@@ -65,8 +65,7 @@ sales-data-analysis-python-sql-powerbi/
 │   └── sales_analysis.sql
 ├── powerbi/
 │   └── Sales_Dashboard.pbix
-└── screenshots/
-    └── sales_dashboard.png
+└──└── sales_dashboard.png
 ```
 
 
